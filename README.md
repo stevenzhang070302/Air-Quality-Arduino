@@ -52,6 +52,8 @@ Diagrams:(These diagrams show a relative way to connect the sensors; please foll
 
 ![Sample_Output](https://lh3.googleusercontent.com/0LXs8d250mqgBz_axvkPTbBL7z27birbNTs_vDIn-M75HzFK2fKSI26p4rMc4bz8Z7Yz7_VLFm-d9ydRIMBwywyy-tsfa_V3cXMXwau2qgl4bM9CM-TNbg2Ae4QffuSZdIlUmgrKJl5CJP7c-nD-tvRfksfeEK5tC3JBKfHmgmykHuVWT6Z37tdV9SMmQbbTaLTtDFSd24vwQWUpr595ubWAZ-ZPUBF4vt8dJVu0cwCYmueOf5eLW-o4yQUSi47gJFlR6O2E8MBvQ24dmZDwMYBY-8bXt1bsuHaM25fbxMScmD5gCNp6eyZRSi9-Fz2kEAxI15CSVJNneB2OdaeATN7-SKedXMXYMOPkJB6aqpXaXMtItNVIdY8dqmw8hlLDIXBNhE4m1D7GS2MYQHTX70o9BIGbVbmci_S6IDVrXjCITa1g8JOTwb0pCgF-aQZ2BrsBajMD3g8178IhgQWjahbpA6kfYrE6KgvInP7D3kRRbU96Yh62P5gldyxHnP9k6-crehBGHAGWhIj-ROUxu8EeYlAY28RuJ_UHAILQM-I5980C0E4_8h9VWpBKxrVaen9GmSQUDsXrrLtGr-TWCkFIC_zzE6QgFAsgpxfZs_pYd7wse0IYJ5zXgTnHtd3Nf9RvOvZwdJFv_gNX_zElGKZN5v44y1AROYn9CscyD5LoXc8iLp6eiPucU0iwyA=w619-h825)
 
+![Sample_Output](https://github.com/stevenzhang070302/Air-Quality-Arduino/blob/master/arduinoData1.jpg?raw=true)
+
 # Instructions
 * The necessary code to run the project should be in the Arduino-mega folder
 * The file PMSensor3.ino contains the code for the PM sensor as you would attach it to another arduino uno board instead, due to inaccuracies when reading values with the rest of the other sensors on the arduino mega.
