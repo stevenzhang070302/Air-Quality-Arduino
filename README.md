@@ -56,6 +56,6 @@ Diagrams:(These diagrams show a relative way to connect the sensors; please foll
 * The necessary code to run the project should be in the Arduino-mega folder
 * The file PMSensor3.ino contains the code for the PM sensor as you would attach it to another arduino uno board instead, due to inaccuracies when reading values with the rest of the other sensors on the arduino mega.
 * The file AirArduino.ino refers to using the arduino mega board as all the sensors will be used. The only missing sensor is the PM sensor due to errors as it will be also be posted in the same folder but will need to be uploaded to a different board, arduino uno board.
-* To run the code, download the Arduino IDE and this repository. Open and click run on either the AirArduino.ino file or the PMSensor3.ino file. 
+* To run the code, download the Arduino IDE and this repository. After wiring, connect the arduino to the usb port of a computer. Open and click run on either the AirArduino.ino file or the PMSensor3.ino file from this repository. 
 
 
