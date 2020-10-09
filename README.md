@@ -36,6 +36,7 @@ Pins to connect to on Device 1:
 * (MQ-135: Digital 4, Analog 4)
 * (MQ-4: Digital 3, Analog 5)
 * (Bluetooth: Digital 9 and 10)
+
 Pins to connect to on Device 2:
 * (DHT-22(With Resistor): Digital 11)
 * (MQ-131: Digital 2, Analog 6)
