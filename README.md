@@ -1,5 +1,5 @@
 # Air-Quality-Arduino-Data-Collection
-Project under Vdart Digital
+IoT Project under Vdart Digital
 
 # Objective: 
 The purpose is to implement fundamentals of Smart City technology into the field of urban air pollution. By implementing an air monitor in urban areas, this device can display the relative values of the air quality in the area ultimately determining whether the air is safe or polluted. The main focus would be allowing the citizens of Tiruchirappalli, India to benefit from this technology as much as possible.
