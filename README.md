@@ -46,7 +46,7 @@ Pins to connect to on Device 2:
 * Starred sensors are not on the diagram and need to be wired according to the pins specified above and also wired with (both) GND connected to the Negative Power strip and VCC connected to the Positive Power strip on the edge of the breadboard(Also make sure GND from the arduino powers the Negative Power strip and 5V/3.3V powers the Positive Power strip).
 Diagrams:(These diagrams show a relative way to connect the sensors; please follow the specifications above to accommodate the code.)
 
-![Wiring_Diagram](https://github.com/stevenzhang070302/Air-Quality-Arduino/blob/master/wiring_diagram.jpg?raw=true)
+![Wiring_Diagram](https://github.com/stevenzhang070302/Air-Quality-Arduino/blob/master/wiring_diagram.PNG?raw=true)
 
 ![Arduino_Setup](https://github.com/stevenzhang070302/Air-Quality-Arduino/blob/master/arduinoImage1.jpg?raw=true)
 
