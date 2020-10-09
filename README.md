@@ -42,8 +42,8 @@ Pins to connect to on Device 2:
 * (MQ-131: Digital 2, Analog 6)
 * (***PMS5003: Connect TXD to Digital 2 on another Arduino Uno board***)
 
-There may be a bug where you have to reset the arduino module to retake PM data...
-Starred sensors are not on the diagram and need to be wired according to the pins specified above and also wired with (both) GND connected to the Negative Power strip and VCC connected to the Positive Power strip on the edge of the breadboard(Also make sure GND from the arduino powers the Negative Power strip and 5V/3.3V powers the Positive Power strip).
+* There may be a bug where you have to reset the arduino module to retake PM data...
+* Starred sensors are not on the diagram and need to be wired according to the pins specified above and also wired with (both) GND connected to the Negative Power strip and VCC connected to the Positive Power strip on the edge of the breadboard(Also make sure GND from the arduino powers the Negative Power strip and 5V/3.3V powers the Positive Power strip).
 Diagrams:(These diagrams show a relative way to connect the sensors; please follow the specifications above to accommodate the code.)
 
 ![Wiring_Diagram](https://lh3.googleusercontent.com/Jjp_cTEuAw5aX366ZqYGpybXrH-67-lAyqVje-vN_xGWLm6asoK9RkouWkbFYRTBOUU4y220EJtAMMO8HEyfXCCTo2lSc6qVPqJ80cb0vF3X8WgIXGU63moIwrO02Y1lCFj6vXRbD_jVfrO8_7acDlAP3CR18bg1XJmaeeLMyU_qwDqB_H4DwAuBHV9a-TpJukKLOT50FySv0HqSrJpsaxEVHKH2q3QJMiChyR2abnz9U5Jy8B6F2K50DTzvgi8cwd7mthbzgNNy30Ddx4h-GYC29qWHbGHMgPCUBJZv9f1LWCReWavE_EV3MuJim_FsM8Ra9-IJdtdhOmhAOG2LDGi82UIRHSlPcClFAkgH5ssh25_8cE6Da41Mrro-Pa14a17-uDo-nlCtvH3gbgh6OiAulNq1Bh5dGPr5DjQnv_qGvswMW0pvGhZgq8_SQL-KklliViiDlne5cqYthVUzlXjSbmjf0lXdIdwZN4d1AXgym2p_8Sp24CXjiggmYzokSd10nhwXsGw2dYSBYyIvmyZtGMtruZYaAdhGB5aCPm3lFCz3DAybe4kLTwYQfvmNVw3GmnooM1wxLhGVNQN7yz5WPHGw1itqcMiN0OYN7lrPabB8rgrAlflC01iQFnEHCTetcc1zusQ65xSl41hM2DyZziOYrv-6_A1apeV7odLybqB36tZcjvt7V46otg=w574-h379-no?authuser=0)
